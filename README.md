@@ -1,1 +1,2 @@
-# email_campaign
+# Email Campaign App
+This an Email Campaign 
